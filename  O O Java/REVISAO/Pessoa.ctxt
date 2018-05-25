@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Pessoa
+comment0.text=\n\ Classe\ abstrata\ Pessoa\ -\ escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ aqui\n\ \n\ @author\ (seu\ nome\ aqui)\n\ @version\ (vers\u00E3o\ ou\ data)\n
+comment1.params=nm\ cpf
+comment1.target=Pessoa(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=
+comment3.target=java.lang.String\ getCPF()
+numComments=4
